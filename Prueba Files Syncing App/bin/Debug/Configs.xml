@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<MasterRepository path="C:\Users\CLORA\Desktop\MR"/>
+	<!--<BackupRepository path="C:\Users\CLORA\Desktop\TRANS BK"/>-->
+	<BackupRepository path="C:\Users\CLORA\Desktop\BR"/>
+	<Method method="2"/>
+</config>

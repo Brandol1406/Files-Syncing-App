@@ -1,0 +1,11 @@
+C:\Users\CLORA\Documents\Mis Apps de Prueba\Prueba Files Syncing App\Prueba Files Syncing App\bin\Debug\Prueba Files Syncing App.exe.config
+C:\Users\CLORA\Documents\Mis Apps de Prueba\Prueba Files Syncing App\Prueba Files Syncing App\bin\Debug\Prueba Files Syncing App.exe
+C:\Users\CLORA\Documents\Mis Apps de Prueba\Prueba Files Syncing App\Prueba Files Syncing App\bin\Debug\Prueba Files Syncing App.pdb
+C:\Users\CLORA\Documents\Mis Apps de Prueba\Prueba Files Syncing App\Prueba Files Syncing App\obj\Debug\Prueba Files Syncing App.csprojAssemblyReference.cache
+C:\Users\CLORA\Documents\Mis Apps de Prueba\Prueba Files Syncing App\Prueba Files Syncing App\obj\Debug\Prueba Files Syncing App.csproj.CoreCompileInputs.cache
+C:\Users\CLORA\Documents\Mis Apps de Prueba\Prueba Files Syncing App\Prueba Files Syncing App\obj\Debug\Prueba Files Syncing App.exe
+C:\Users\CLORA\Documents\Mis Apps de Prueba\Prueba Files Syncing App\Prueba Files Syncing App\obj\Debug\Prueba Files Syncing App.pdb
+C:\Users\CLORA\Documents\Mis Apps de Prueba\Prueba Files Syncing App\Prueba Files Syncing App\bin\Debug\Prueba Files Syncing App.exe.manifest
+C:\Users\CLORA\Documents\Mis Apps de Prueba\Prueba Files Syncing App\Prueba Files Syncing App\bin\Debug\Prueba Files Syncing App.application
+C:\Users\CLORA\Documents\Mis Apps de Prueba\Prueba Files Syncing App\Prueba Files Syncing App\obj\Debug\Prueba Files Syncing App.exe.manifest
+C:\Users\CLORA\Documents\Mis Apps de Prueba\Prueba Files Syncing App\Prueba Files Syncing App\obj\Debug\Prueba Files Syncing App.application
